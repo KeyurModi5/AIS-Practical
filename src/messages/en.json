@@ -1,0 +1,8 @@
+{
+  "userExists": "User already exists.",
+  "userRegisterd": "User registered successfully.",
+  "userLogin": "User login successfully.",
+  "userNotFound": "User not found.",
+  "incorrectEmailPassword": "Incorrect password.",
+  "profileNotExist": "Profile does not exist."
+}
